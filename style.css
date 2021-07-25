@@ -1,11 +1,21 @@
 * {
-    background-color: #dbe4ed;
     font: 11px Verdana, sans-serif;
 }
 
+#mainblock {
+    margin: auto;
+    background-color: #dbe4ed;
+    width: 800px;
+    text-align: center;
+}
+
 .circleAva {
+    float: left;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 5px;
     border-radius: 50%;
-    width: 20%;
+    width: 30%;
 }
 
 .headers {
@@ -13,5 +23,7 @@
 }
 
 .myName {
+    margin-top: 30px;
+    padding-top: 30px;
     font: 75px Georgia, serif;
 }

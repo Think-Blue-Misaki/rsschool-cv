@@ -1,8 +1,5 @@
-* {
-    font: 11px Verdana, sans-serif;
-}
-
 #mainblock {
+    font: 14px Verdana, sans-serif;
     margin: auto;
     background-color: #dbe4ed;
     width: 800px;
@@ -25,5 +22,5 @@
 .myName {
     margin-top: 30px;
     padding-top: 30px;
-    font: 75px Georgia, serif;
+    font: 75px Lora, Georgia, serif;
 }

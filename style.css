@@ -1,0 +1,17 @@
+* {
+    background-color: #dbe4ed;
+    font: 11px Verdana, sans-serif;
+}
+
+.circleAva {
+    border-radius: 50%;
+    width: 20%;
+}
+
+.headers {
+    font: 20px Georgia, serif;
+}
+
+.myName {
+    font: 75px Georgia, serif;
+}

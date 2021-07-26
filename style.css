@@ -1,0 +1,51 @@
+#wholeblock {
+    border: 10px solid #daedffa1;
+    font: 12px Verdana, sans-serif;
+    margin: auto;
+    background-color: #dbe4ed;
+    width: 800px;
+    text-align: center;
+}
+
+#mainblockLeft {
+    padding-left: 50px;
+    float: left;
+    background-color: #dbe4ed;
+    text-align: left;
+    width: 60%;
+}
+
+#mainblockRight {
+    text-align: left;
+    height: 333px;
+    background-color: #dbe4ed;
+}
+
+.circleAva {
+    float: left;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 5px;
+    border-radius: 50%;
+    width: 30%;
+}
+
+.headers {
+    font: lighter 25px Georgia, serif;
+}
+
+.aboutme {
+    padding-top: 20px;
+    font: lighter 25px Georgia, serif;
+}
+
+.myName {
+    margin-top: 0;
+    margin-bottom: 40px;
+    padding-top: 45px;
+    font: lighter 75px Lora, Georgia, serif;
+}
+
+.lists {
+    line-height: 2.2;
+}

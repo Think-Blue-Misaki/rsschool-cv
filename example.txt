@@ -39,7 +39,7 @@
                     <li><address>Minsk, Belarus</address></li>
                     <li>Self-educated</li>
                     <li>Aphex Twin fan</li>
-                    <li><a href="example.txt">Code example</a></li>
+                    <li><a href="example.html">Code example</a></li>
                 </ul>
             </div>
         </main>

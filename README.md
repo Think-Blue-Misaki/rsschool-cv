@@ -1,1 +1,1 @@
-[My Own Cv](https://Think-Blue-Misaki.github.io/rsschool-cv/cv)
+https://think-blue-misaki.github.io/rsschool-cv/

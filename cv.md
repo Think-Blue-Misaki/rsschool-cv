@@ -4,7 +4,7 @@ The easiest way to contact me:
 1. message me via [vk.com](https://vk.com/litmeup)
 
 ### skills ###
-//**WIP**
+depression
 
 ### english ###
 *decent*, have reasons to improve.

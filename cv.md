@@ -1,4 +1,4 @@
-## Yauhen Douhi ##
+## Yauhen Douh ##
 The easiest way to contact me: 
 1. line id - **grechiha**
 1. message me via [vk.com](https://vk.com/litmeup)

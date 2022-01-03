@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div id="wholeblock">
+
+        <header>
+            <img src="avatar.jpg" alt="avatar" class="circleAva">
+            <p class="myName">Yauhen<br> Douhi</p>
+            <h3><i>Front-end developer</i></h3>
+        </header>
+
+        <main>
+            <div id="mainblockLeft">
+                <h2 class="headers">Skills and Abilities</h2>
+                <ul class="lists">
+                    <li><em>HTML CSS JS</em></li>
+                    <li>Problem Solving Skills</li>
+                    <li>Communication Skills</li>
+                    <li>Able to explain thoughts in English (B1+)</li>
+                </ul>
+                <h2 class="headers">Contact</h2>
+                <ul class="lists">
+                    <li><a href="http://line.me/en/">LINE</a> ID 'grechiha'</li>
+                    <li><a href="http://vk.com/litmeup">vk.com</a></li>
+                    <li>thinkbluecountoneto@gmail.com</li>
+                </ul>
+            </div>
+
+            <div id="mainblockRight">
+                <h2 class="aboutme">About me</h2>
+                <ul class="lists">
+                    <li><address>Minsk, Belarus</address></li>
+                    <li>Self-educated</li>
+                    <li>Aphex Twin fan</li>
+                    <li><a href="example.html">Code example</a></li>
+                </ul>
+            </div>
+        </main>
+
+        <footer>
+            <p><a href="http://github.com/Think-Blue-Misaki">GitHub</a></p>
+            <time datetime="2021-07-26">26.07.21 &nbsp;<a href="http://rs.school/js/">The Rolling Scopes School</a></time>
+            <img src="http://rs.school/images/rs_school_js.svg" alt="Rs School">
+        </footer>
+
+    </div>
+</body>
+</html>
